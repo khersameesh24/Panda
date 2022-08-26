@@ -1,0 +1,12 @@
+{
+    "debug": true,
+    "secret": "django-insecure-7&rlqsoxzj^&1kpu5=g+_^&7%-x+)s1z5%y3cd%r3+5trny5u_",
+    "allowed_hosts": [],
+    "language_code": "en-us",
+    "time_zone": "UTC",
+    "static_url": "static/",
+    "media_url": "/media/",
+    "crispy_template_pack": "bootstrap4",
+    "login_redirect_url": "blog-home",
+    "login_url": "login"
+}
