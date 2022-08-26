@@ -1,6 +1,5 @@
 {
     "debug": true,
-    "secret": "django-insecure-7&rlqsoxzj^&1kpu5=g+_^&7%-x+)s1z5%y3cd%r3+5trny5u_",
     "allowed_hosts": [],
     "language_code": "en-us",
     "time_zone": "UTC",
