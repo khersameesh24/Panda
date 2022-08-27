@@ -1,2 +1,2 @@
-# Panda Blogger
-Panda Blogger is a Django implememtation for a blogging website.
+# Panda
+Panda is a Django implememtation for a blogging website.
