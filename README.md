@@ -1,2 +1,2 @@
 # Panda
-Panda is a Django implememtation for a blogging website.
+Panda is a django implememtation for a blogging website.
